@@ -13,7 +13,7 @@ public class Customer {
     private int age;
     private String location;
 
-    // Getters and Setters
+  
     public int getId() {
         return id;
     }
